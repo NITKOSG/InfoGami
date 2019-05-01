@@ -1,4 +1,7 @@
 # InfoGami **( Name not yet finalized :P)**
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NITKOSG/InfoGami.svg)](https://greenkeeper.io/)
+
 -------------------------------------
 
 An online Social Network for a college made for the developers, coders, electronic freaks etc.
