@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "env/lib/python2.7/site-packages/dal_select2/static/autocomplete_light/vendor/select2/package.json"
+      ]
+    }
+  }
+}
